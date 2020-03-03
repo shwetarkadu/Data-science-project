@@ -1,1 +1,1 @@
-# Data-science-project
+Machine learning algoritm code
